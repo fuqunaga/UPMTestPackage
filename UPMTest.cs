@@ -4,15 +4,8 @@ using UnityEngine;
 
 public class UPMTest : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private void OnGUI()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        GUILayout.Label("UPM Test");
     }
 }
