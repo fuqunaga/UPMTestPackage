@@ -1,7 +1,7 @@
 {
     "name": "ga.fuquna.upmtestpackage",
     "displayName": "Package Manager Test",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2018.3",
     "description": "This package is\nfor testing package manager.",
     "keywords": ["Test"],
